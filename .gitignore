@@ -114,6 +114,8 @@ dmypy.json
 # Pyre type checker
 .pyre/:wq
 
-
+# C9
+.c9
+.~c9
 
 
