@@ -1,4 +1,4 @@
-#!/home/ubuntu/workspace/env/bin/python3.6
+#!/Users/johnmejiahernandez/Documents/weekly_hours_backend/env/bin/python3.6
 from django.core import management
 
 if __name__ == "__main__":

@@ -26,7 +26,7 @@ SECRET_KEY = '!x7_aipdfw90@f-@3b*8i(w68lh-wb!kf1s8lm@$=q$ss0*bb_'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'weeklyhours-luism0reno.c9users.io',
+    # 'weeklyhours-luism0reno.c9users.io',
 ]
 
 
