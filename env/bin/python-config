@@ -1,4 +1,4 @@
-#!/Users/johnmejiahernandez/Documents/weekly_hours_backend/env/bin/python
+#!/Users/johnmejia/Documents/weekly_hours_backend/env/bin/python
 
 import sys
 import getopt
