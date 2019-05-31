@@ -8,8 +8,8 @@ $ docker-compose up
 use manage.py
 
 ```sh
-$ docker-compose run django weeklyhours/manage.py migrate
-$ docker-compose run django weeklyhours/manage.py createsuperuser
+$ docker-compose web django weeklyhours/manage.py migrate
+$ docker-compose web django weeklyhours/manage.py createsuperuser
 ```
 
 License
